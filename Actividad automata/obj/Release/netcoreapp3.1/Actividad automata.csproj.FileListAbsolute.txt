@@ -1,0 +1,5 @@
+C:\Users\mikes\OneDrive - Universidad Privada del Norte\COMPILADORES\SEMANA(6)\ACTIVIDAD\Actividad automata\Actividad automata\obj\Release\netcoreapp3.1\Actividad automata.csproj.AssemblyReference.cache
+C:\Users\mikes\OneDrive - Universidad Privada del Norte\COMPILADORES\SEMANA(6)\ACTIVIDAD\Actividad automata\Actividad automata\obj\Release\netcoreapp3.1\Actividad automata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikes\OneDrive - Universidad Privada del Norte\COMPILADORES\SEMANA(6)\ACTIVIDAD\Actividad automata\Actividad automata\obj\Release\netcoreapp3.1\Actividad automata.AssemblyInfoInputs.cache
+C:\Users\mikes\OneDrive - Universidad Privada del Norte\COMPILADORES\SEMANA(6)\ACTIVIDAD\Actividad automata\Actividad automata\obj\Release\netcoreapp3.1\Actividad automata.AssemblyInfo.cs
+C:\Users\mikes\OneDrive - Universidad Privada del Norte\COMPILADORES\SEMANA(6)\ACTIVIDAD\Actividad automata\Actividad automata\obj\Release\netcoreapp3.1\Actividad automata.csproj.CoreCompileInputs.cache
