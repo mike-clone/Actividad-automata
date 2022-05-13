@@ -11,6 +11,7 @@ namespace Actividad_Automatas_Finitos_6404
         static void Main(string[] args)
         {
             //Solicitar la cadena
+            //Comentario de Miguel
             Console.Write("Ingresar cadena W: ");
             string w = Console.ReadLine();
             //comentario de ejemplo
