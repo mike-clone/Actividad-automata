@@ -122,3 +122,4 @@ namespace Actividad_Automatas_Finitos_6404
     }
 }
 //hola
+// comentario de Miguel
