@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UV488OxoCjPqtNAwjYF9hyJ6Kjor2VaqJOt6c0pzLax5umsK04OPpAPViWXgbcnewGG3EaIlr9h6kuDoIptMGQ==",
+  "dgSpecHash": "ZDvvnq6IxZ8MDiUQbkk+Rg+uInzhyXQvERoYOwwp9pwtWUNOFGou6/7jOzSdxQP1yJmBwqxWsqjbQkFVNwHBFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mikes\\OneDrive - Universidad Privada del Norte\\COMPILADORES\\SEMANA(6)\\ACTIVIDAD\\Actividad automata\\Actividad automata\\Actividad automata.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\GIANELLA\\Source\\Repos\\mike-clone\\Actividad-automata\\Actividad automata\\Actividad automata.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIANELLA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\GIANELLA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\GIANELLA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\GIANELLA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
