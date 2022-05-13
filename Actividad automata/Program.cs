@@ -13,7 +13,7 @@ namespace Actividad_Automatas_Finitos_6404
             //Solicitar la cadena
             Console.Write("Ingresar cadena W: ");
             string w = Console.ReadLine();
-
+            //comentario de ejemplo
             //Contamos cuantos elementos tiene la cadena
             int ele = w.Length;
 
